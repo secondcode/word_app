@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/word_app/static/js/runtime~main.48d54104.js"
   },
   {
-    "revision": "7a8040e9cd2598766490",
-    "url": "/word_app/static/js/main.7a8040e9.chunk.js"
+    "revision": "567990a8a9c485ebab19",
+    "url": "/word_app/static/js/main.567990a8.chunk.js"
   },
   {
     "revision": "0cd6058fc3c24877ba89",
     "url": "/word_app/static/js/1.0cd6058f.chunk.js"
   },
   {
-    "revision": "7a8040e9cd2598766490",
+    "revision": "567990a8a9c485ebab19",
     "url": "/word_app/static/css/main.32891547.chunk.css"
   },
   {
-    "revision": "7371462c221a41540671467153e45797",
+    "revision": "0b7f05bf32de24e9b2a6216be7f1ed10",
     "url": "/word_app/index.html"
   }
 ];
