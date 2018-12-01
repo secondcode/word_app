@@ -1,13 +1,13 @@
 {
   "main.css": "/word_app/static/css/main.32891547.chunk.css",
-  "main.js": "/word_app/static/js/main.91908b82.chunk.js",
-  "main.js.map": "/word_app/static/js/main.91908b82.chunk.js.map",
+  "main.js": "/word_app/static/js/main.7a8040e9.chunk.js",
+  "main.js.map": "/word_app/static/js/main.7a8040e9.chunk.js.map",
   "static/js/1.0cd6058f.chunk.js": "/word_app/static/js/1.0cd6058f.chunk.js",
   "static/js/1.0cd6058f.chunk.js.map": "/word_app/static/js/1.0cd6058f.chunk.js.map",
   "runtime~main.js": "/word_app/static/js/runtime~main.48d54104.js",
   "runtime~main.js.map": "/word_app/static/js/runtime~main.48d54104.js.map",
   "static/css/main.32891547.chunk.css.map": "/word_app/static/css/main.32891547.chunk.css.map",
   "index.html": "/word_app/index.html",
-  "precache-manifest.b596dd7baabdb25ea4108aa1e95141e0.js": "/word_app/precache-manifest.b596dd7baabdb25ea4108aa1e95141e0.js",
+  "precache-manifest.bfd2385e3c2d0717cc48a5758a3167dd.js": "/word_app/precache-manifest.bfd2385e3c2d0717cc48a5758a3167dd.js",
   "service-worker.js": "/word_app/service-worker.js"
 }
