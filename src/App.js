@@ -73,6 +73,7 @@ const says = [
     author: "아리스토텔레스"
   },
   {
+    img: "http://www.cartoon.or.kr/image/profile/writer_upload/4212.jpg",
     text: "그냥 너무 기뻐서 자꾸 슬픈 사람들의 얼굴이 떠올라.\n\n그 사람들도 같이 이 기쁨을 누리면 좋을 텐데.",
     author: "떠돌이 용병 아레스"
   },
@@ -86,9 +87,10 @@ const says = [
     author: "생각할 시간"
   },
   {
+    img: "http://pds21.egloos.com/pds/201406/13/74/d0014374_539a46dc98858.jpg",
     text: "따지고 보면 사랑도 구라야! 사랑은 상대방을 속이고 자기 자신까지 속이거든 ...\n\n" +
     "의리란 놈은 이랬다 저랬다 하지 않지, 당신이 나와 결혼해주면 한 평생 남편으로서 의리를 지킬거요.",
-    author: "타짜, 고니가 화린에게"
+    author: "만화 타짜, 고니가 화린에게"
   },
   {
     img: "https://t1.daumcdn.net/cfile/tistory/25731550544307EB34",
