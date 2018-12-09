@@ -100,10 +100,26 @@ const says = [
   },
 
   {
-    img: "https://pasteve.com/wp-content/uploads/2018/01/shutterstock_751011886-min.jpg",
-    text: "너 자신을 알라",
-    author: "소크라테스"
+    img: "http://img.lifestyler.co.kr/uploads/program/cheditor/2014/11/254T2TR4ZP8HSHTG8SJ2.jpg",
+    author: "미생, 오상식 차장"
   },
+  {
+    img: "http://img.lifestyler.co.kr/uploads/program/cheditor/2014/11/QBH5RJZU3O1C3PWYPDQN.jpg",
+    author: "미생, 장그레"
+  },
+  {
+    img: "http://img.lifestyler.co.kr/uploads/program/cheditor/2014/11/P8ZBFERLIMMQZA7C8OWM.jpg",
+    author: "미생, 장그레"
+  },
+  {
+    img: "http://img.lifestyler.co.kr/uploads/program/cheditor/2014/11/FYQSNEANV891CYIM5RZZ.jpg",
+    author: "미생, 장그레"
+  },
+  {
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQihdGssLOCcakFegIOT3-CKS7GUq6mPJ24k2vitv0KTODSi7neMA",
+    author: "영화, 캐쉬백"
+  },
+
   {
     author: "회사원",
     text: "퇴근 시간은 내 마음속에 있다",
