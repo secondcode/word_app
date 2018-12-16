@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/word_app/static/js/runtime~main.48d54104.js.map",
   "static/css/main.34f1688a.chunk.css.map": "/word_app/static/css/main.34f1688a.chunk.css.map",
   "index.html": "/word_app/index.html",
-  "precache-manifest.e39b62d7d639522e9b432de44374fab2.js": "/word_app/precache-manifest.e39b62d7d639522e9b432de44374fab2.js",
+  "precache-manifest.7fc2c0428154e8517c12324f462482e4.js": "/word_app/precache-manifest.7fc2c0428154e8517c12324f462482e4.js",
   "service-worker.js": "/word_app/service-worker.js"
 }

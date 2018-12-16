@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/word_app/static/css/main.34f1688a.chunk.css"
   },
   {
-    "revision": "d9caed537102b26f5b167269be9f9996",
+    "revision": "cc67febad986c267391c9dd803396ed7",
     "url": "/word_app/index.html"
   }
 ];
